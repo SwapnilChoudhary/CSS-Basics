@@ -45,3 +45,4 @@ This is a basic repository to learn the basics of CSS (Cascading Style Sheets). 
 This is a simple repository to help me learn the basics of CSS. The code examples are written in Markdown format which allows for easy read
 This is a basic repository to learn the basics of HTML and CSS. The code examples are written in Markdown format which allows for easy read
 This is a basic repository to learn the basics of CSS (Cascading Style Sheets). The code examples are written in Markdown syntax
+This is a simple repository to help beginners learn the basics of HTML and CSS. The code examples are written in Markdown format which allows for easy read
