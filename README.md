@@ -17,6 +17,8 @@ A repo created while learning CSS Basics.
      - [Opacity Property](#opacity-property)
      - [Z-Index Property](#z-index-property)
      - [Overflow Property](#overflow-property)
+     - [Pseudo-Classes](#pseudo-classes)
+     - [Pseudo-Elements](#pseudo-elements)
   
 ## Introduction  
 This is a simple repository to help me learn the basics of CSS. The code examples are written in Markdown format which can be easily
