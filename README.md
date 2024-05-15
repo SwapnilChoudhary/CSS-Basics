@@ -19,6 +19,7 @@ A repo created while learning CSS Basics.
      - [Overflow Property](#overflow-property)
      - [Pseudo-Classes](#pseudo-classes)
      - [Pseudo-Elements](#pseudo-elements)
+
   
 ## Introduction  
 This is a simple repository to help me learn the basics of CSS. The code examples are written in Markdown format which can be easily
@@ -43,3 +44,4 @@ This repository contains the code for a basic HTML page with embedded CSS stylin
 This is a basic repository to learn the basics of CSS (Cascading Style Sheets). The code examples are written in Markdown format
 This is a simple repository to help me learn the basics of CSS. The code examples are written in Markdown format which allows for easy read
 This is a basic repository to learn the basics of HTML and CSS. The code examples are written in Markdown format which allows for easy read
+This is a basic repository to learn the basics of CSS (Cascading Style Sheets). The code examples are written in Markdown syntax
