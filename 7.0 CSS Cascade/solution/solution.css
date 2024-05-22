@@ -1,5 +1,5 @@
 #outer-box {
-  background-color: purple;
+  border: 10px solid purple;
 }
 
 .box {
